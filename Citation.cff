@@ -1,0 +1,397 @@
+@article{DBLP:journals/corr/abs-1901-04780,
+  author    = {Chen Wang and
+               Danfei Xu and
+               Yuke Zhu and
+               Roberto Mart{\'{\i}}n{-}Mart{\'{\i}}n and
+               Cewu Lu and
+               Li Fei{-}Fei and
+               Silvio Savarese},
+  title     = {DenseFusion: 6D Object Pose Estimation by Iterative Dense Fusion},
+  journal   = {CoRR},
+  volume    = {abs/1901.04780},
+  year      = {2019},
+  url       = {http://arxiv.org/abs/1901.04780},
+  eprinttype = {arXiv},
+  eprint    = {1901.04780},
+  timestamp = {Mon, 22 Jul 2019 14:55:30 +0200},
+  biburl    = {https://dblp.org/rec/journals/corr/abs-1901-04780.bib},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+@article{DBLP:journals/corr/abs-2103-06526,
+  author    = {Jiehong Lin and
+               Zewei Wei and
+               Zhihao Li and
+               Songcen Xu and
+               Kui Jia and
+               Yuanqing Li},
+  title     = {DualPoseNet: Category-level 6D Object Pose and Size Estimation using
+               Dual Pose Network with Refined Learning of Pose Consistency},
+  journal   = {CoRR},
+  volume    = {abs/2103.06526},
+  year      = {2021},
+  url       = {https://arxiv.org/abs/2103.06526},
+  eprinttype = {arXiv},
+  eprint    = {2103.06526},
+  timestamp = {Tue, 16 Mar 2021 11:26:59 +0100},
+  biburl    = {https://dblp.org/rec/journals/corr/abs-2103-06526.bib},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+
+@article{Rustler_2022,
+	doi = {10.1109/lra.2022.3152975},
+  
+	url = {https://doi.org/10.1109%2Flra.2022.3152975},
+  
+	year = 2022,
+	month = {apr},
+  
+	publisher = {Institute of Electrical and Electronics Engineers ({IEEE})},
+  
+	volume = {7},
+  
+	number = {2},
+  
+	pages = {5254--5261},
+  
+	author = {Lukas Rustler and Jens Lundell and Jan Kristof Behrens and Ville Kyrki and Matej Hoffmann},
+  
+	title = {Active Visuo-Haptic Object Shape Completion},
+  
+	journal = {{IEEE} Robotics and Automation Letters}
+}
+
+@INPROCEEDINGS{7487159,  author={Viña B., Francisco E. and Karayiannidis, Yiannis and Smith, Christian and Kragic, Danica},  booktitle={2016 IEEE International Conference on Robotics and Automation (ICRA)},   title={Adaptive control for pivoting with visual and tactile feedback},   year={2016},  volume={},  number={},  pages={399-406},  doi={10.1109/ICRA.2016.7487159}}
+
+@INPROCEEDINGS{9561969,  author={Narang, Yashraj and Sundaralingam, Balakumar and Macklin, Miles and Mousavian, Arsalan and Fox, Dieter},  booktitle={2021 IEEE International Conference on Robotics and Automation (ICRA)},   title={Sim-to-Real for Robotic Tactile Sensing via Physics-Based Simulation and Learned Latent Projections},   year={2021},  volume={},  number={},  pages={6444-6451},  doi={10.1109/ICRA48506.2021.9561969}}
+
+@article{DBLP:journals/corr/abs-2104-03437,
+  author    = {Yijia Weng and
+               He Wang and
+               Qiang Zhou and
+               Yuzhe Qin and
+               Yueqi Duan and
+               Qingnan Fan and
+               Baoquan Chen and
+               Hao Su and
+               Leonidas J. Guibas},
+  title     = {{CAPTRA:} CAtegory-level Pose Tracking for Rigid and Articulated Objects
+               from Point Clouds},
+  journal   = {CoRR},
+  volume    = {abs/2104.03437},
+  year      = {2021},
+  url       = {https://arxiv.org/abs/2104.03437},
+  eprinttype = {arXiv},
+  eprint    = {2104.03437},
+  timestamp = {Tue, 13 Apr 2021 16:46:17 +0200},
+  biburl    = {https://dblp.org/rec/journals/corr/abs-2104-03437.bib},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+
+@article{DBLP:journals/corr/abs-1809-10790,
+  author    = {Jonathan Tremblay and
+               Thang To and
+               Balakumar Sundaralingam and
+               Yu Xiang and
+               Dieter Fox and
+               Stan Birchfield},
+  title     = {Deep Object Pose Estimation for Semantic Robotic Grasping of Household
+               Objects},
+  journal   = {CoRR},
+  volume    = {abs/1809.10790},
+  year      = {2018},
+  url       = {http://arxiv.org/abs/1809.10790},
+  eprinttype = {arXiv},
+  eprint    = {1809.10790},
+  timestamp = {Fri, 05 Oct 2018 11:34:52 +0200},
+  biburl    = {https://dblp.org/rec/journals/corr/abs-1809-10790.bib},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+
+@article{DBLP:journals/corr/abs-2101-05452,
+  author    = {Yashraj S. Narang and
+               Balakumar Sundaralingam and
+               Karl Van Wyk and
+               Arsalan Mousavian and
+               Dieter Fox},
+  title     = {Interpreting and Predicting Tactile Signals for the SynTouch BioTac},
+  journal   = {CoRR},
+  volume    = {abs/2101.05452},
+  year      = {2021},
+  url       = {https://arxiv.org/abs/2101.05452},
+  eprinttype = {arXiv},
+  eprint    = {2101.05452},
+  timestamp = {Fri, 22 Jan 2021 15:16:00 +0100},
+  biburl    = {https://dblp.org/rec/journals/corr/abs-2101-05452.bib},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+
+@article{DBLP:journals/corr/abs-2108-10470,
+  author    = {Viktor Makoviychuk and
+               Lukasz Wawrzyniak and
+               Yunrong Guo and
+               Michelle Lu and
+               Kier Storey and
+               Miles Macklin and
+               David Hoeller and
+               Nikita Rudin and
+               Arthur Allshire and
+               Ankur Handa and
+               Gavriel State},
+  title     = {Isaac Gym: High Performance GPU-Based Physics Simulation For Robot
+               Learning},
+  journal   = {CoRR},
+  volume    = {abs/2108.10470},
+  year      = {2021},
+  url       = {https://arxiv.org/abs/2108.10470},
+  eprinttype = {arXiv},
+  eprint    = {2108.10470},
+  timestamp = {Fri, 27 Aug 2021 15:02:29 +0200},
+  biburl    = {https://dblp.org/rec/journals/corr/abs-2108-10470.bib},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+
+@article{Funabashi_2022,
+	doi = {10.1109/lra.2022.3142417},
+  
+	url = {https://doi.org/10.1109%2Flra.2022.3142417},
+  
+	year = 2022,
+	month = {apr},
+  
+	publisher = {Institute of Electrical and Electronics Engineers ({IEEE})},
+  
+	volume = {7},
+  
+	number = {2},
+  
+	pages = {2102--2109},
+  
+	author = {Satoshi Funabashi and Tomoki Isobe and Fei Hongyi and Atsumu Hiramoto and Alexander Schmitz and Shigeki Sugano and Tetsuya Ogata},
+  
+	title = {Multi-Fingered In-Hand Manipulation With Various Object Properties Using Graph Convolutional Networks and Distributed Tactile Sensors},
+  
+	journal = {{IEEE} Robotics and Automation Letters}
+}
+
+@article{DBLP:journals/corr/abs-1803-07671,
+  author    = {Jacob Varley and
+               David Watkins{-}Valls and
+               Peter K. Allen},
+  title     = {Multi-Modal Geometric Learning for Grasping and Manipulation},
+  journal   = {CoRR},
+  volume    = {abs/1803.07671},
+  year      = {2018},
+  url       = {http://arxiv.org/abs/1803.07671},
+  eprinttype = {arXiv},
+  eprint    = {1803.07671},
+  timestamp = {Mon, 13 Aug 2018 16:48:34 +0200},
+  biburl    = {https://dblp.org/rec/journals/corr/abs-1803-07671.bib},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+
+@article{DBLP:journals/corr/abs-2112-14298,
+  author    = {Guanqun Cao and
+               Shan Luo},
+  title     = {Multimodal perception for dexterous manipulation},
+  journal   = {CoRR},
+  volume    = {abs/2112.14298},
+  year      = {2021},
+  url       = {https://arxiv.org/abs/2112.14298},
+  eprinttype = {arXiv},
+  eprint    = {2112.14298},
+  timestamp = {Tue, 04 Jan 2022 15:59:27 +0100},
+  biburl    = {https://dblp.org/rec/journals/corr/abs-2112-14298.bib},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+
+@misc{https://doi.org/10.48550/arxiv.2203.04802,
+  doi = {10.48550/ARXIV.2203.04802},
+  url = {https://arxiv.org/abs/2203.04802},
+  author = {Li, Fu and Yu, Hao and Shugurov, Ivan and Busam, Benjamin and Yang, Shaowu and Ilic, Slobodan},
+  keywords = {Computer Vision and Pattern Recognition (cs.CV), FOS: Computer and information sciences, FOS: Computer and information sciences},
+  title = {NeRF-Pose: A First-Reconstruct-Then-Regress Approach for Weakly-supervised 6D Object Pose Estimation},
+  publisher = {arXiv},
+  year = {2022},
+  copyright = {Creative Commons Attribution 4.0 International}
+}
+
+@inproceedings{inproceedings,
+author = {Zapata-Impata, Brayan and Mateo, Carlos and Gil, Pablo and Pomares, Jorge},
+year = {2017},
+month = {06},
+pages = {154-161},
+title = {Using Geometry to Detect Grasping Points on 3D Unknown Point Cloud},
+doi = {10.5220/0006470701540161}
+}
+
+@INPROCEEDINGS{8594314,
+  author={Sanchez, Jose and Mateo, Carlos M. and Corrales, Juan Antonio and Bouzgarrou, Belhassen-Chedli and Mezouar, Youcef},
+  booktitle={2018 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)}, 
+  title={Online Shape Estimation based on Tactile Sensing and Deformation Modeling for Robot Manipulation}, 
+  year={2018},
+  volume={},
+  number={},
+  pages={504-511},
+  doi={10.1109/IROS.2018.8594314}}
+  
+@article{111,
+    author = {Gil, Pablo and Mateo, Carlos and Torres, Fernando},
+    year = {2015},
+    month = {08},
+    pages = {1999-2013},
+    title = {Visual perception for the 3D recognition of geometric pieces in Robotic manipulation},
+    volume = {83},
+    journal = {International Journal of Advanced Manufacturing Technology},
+    doi = {10.1007/s00170-015-7708-8}
+}
+
+@article{DBLP:journals/corr/abs-1711-00199,
+  author    = {Yu Xiang and
+               Tanner Schmidt and
+               Venkatraman Narayanan and
+               Dieter Fox},
+  title     = {PoseCNN: {A} Convolutional Neural Network for 6D Object Pose Estimation
+               in Cluttered Scenes},
+  journal   = {CoRR},
+  volume    = {abs/1711.00199},
+  year      = {2017},
+  url       = {http://arxiv.org/abs/1711.00199},
+  eprinttype = {arXiv},
+  eprint    = {1711.00199},
+  timestamp = {Mon, 13 Aug 2018 16:48:59 +0200},
+  biburl    = {https://dblp.org/rec/journals/corr/abs-1711-00199.bib},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+
+@article{DBLP:journals/corr/abs-2104-00633,
+  author    = {Shun Iwase and
+               Xingyu Liu and
+               Rawal Khirodkar and
+               Rio Yokota and
+               Kris M. Kitani},
+  title     = {RePOSE: Real-Time Iterative Rendering and Refinement for 6D Object
+               Pose Estimation},
+  journal   = {CoRR},
+  volume    = {abs/2104.00633},
+  year      = {2021},
+  url       = {https://arxiv.org/abs/2104.00633},
+  eprinttype = {arXiv},
+  eprint    = {2104.00633},
+  timestamp = {Mon, 12 Apr 2021 16:14:56 +0200},
+  biburl    = {https://dblp.org/rec/journals/corr/abs-2104-00633.bib},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+
+@article{222,
+    author = {Su, Zhe and Fishel, Jeremy and Yamamoto, Tomonori and Loeb, Gerald},
+    year = {2012},
+    month = {07},
+    pages = {7},
+    title = {Use of tactile feedback to control exploratory movements to characterize object compliance},
+    volume = {6},
+    journal = {Frontiers in neurorobotics},
+    doi = {10.3389/fnbot.2012.00007}
+}
+
+@ARTICLE{9682507,
+  author={Dikhale, Snehal and Patel, Karankumar and Dhingra, Daksh and Naramura, Itoshi and Hayashi, Akinobu and Iba, Soshi and Jamali, Nawid},
+  journal={IEEE Robotics and Automation Letters}, 
+  title={VisuoTactile 6D Pose Estimation of an In-Hand Object Using Vision and Tactile Sensor Data}, 
+  year={2022},
+  volume={7},
+  number={2},
+  pages={2148-2155},
+  doi={10.1109/LRA.2022.3143289}}
+  
+@article{333,
+    author = {Gil, Pablo and Mateo, Carlos and Torres, Fernando},
+    year = {2014},
+    month = {02},
+    pages = {},
+    title = {3D Visual Sensing of Human Hand for Remote Operation of a Robotic Hand},
+    volume = {11},
+    journal = {International Journal of Advanced Robotic Systems},
+    doi = {10.5772/57525}
+}
+
+
+@article{DBLP:journals/corr/abs-1711-10871,
+  author    = {Danfei Xu and
+               Dragomir Anguelov and
+               Ashesh Jain},
+  title     = {PointFusion: Deep Sensor Fusion for 3D Bounding Box Estimation},
+  journal   = {CoRR},
+  volume    = {abs/1711.10871},
+  year      = {2017},
+  url       = {http://arxiv.org/abs/1711.10871},
+  eprinttype = {arXiv},
+  eprint    = {1711.10871},
+  timestamp = {Mon, 13 Aug 2018 16:46:38 +0200},
+  biburl    = {https://dblp.org/rec/journals/corr/abs-1711-10871.bib},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+
+@article{DBLP:journals/corr/QiSMG16,
+  author    = {Charles Ruizhongtai Qi and
+               Hao Su and
+               Kaichun Mo and
+               Leonidas J. Guibas},
+  title     = {PointNet: Deep Learning on Point Sets for 3D Classification and Segmentation},
+  journal   = {CoRR},
+  volume    = {abs/1612.00593},
+  year      = {2016},
+  url       = {http://arxiv.org/abs/1612.00593},
+  eprinttype = {arXiv},
+  eprint    = {1612.00593},
+  timestamp = {Wed, 11 Nov 2020 08:48:10 +0100},
+  biburl    = {https://dblp.org/rec/journals/corr/QiSMG16.bib},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+
+@article{esteves17_learn_so_equiv_repres_with_spher_cnns,
+  author = {Esteves, Carlos and Allen-Blanchette, Christine and Makadia, Ameesh and Daniilidis, Kostas},
+  title = {Learning SO(3) Equivariant Representations With Spherical Cnns},
+  journal = {CoRR},
+  year = {2017},
+  url = {http://arxiv.org/abs/1711.06721},
+  archivePrefix = {arXiv},
+  eprint = {1711.06721},
+  primaryClass = {cs.CV},
+}
+
+@article{DBLP:journals/corr/abs-1801-10130,
+  author    = {Taco S. Cohen and
+               Mario Geiger and
+               Jonas K{\"{o}}hler and
+               Max Welling},
+  title     = {Spherical CNNs},
+  journal   = {CoRR},
+  volume    = {abs/1801.10130},
+  year      = {2018},
+  url       = {http://arxiv.org/abs/1801.10130},
+  eprinttype = {arXiv},
+  eprint    = {1801.10130},
+  timestamp = {Fri, 11 Mar 2022 10:00:17 +0100},
+  biburl    = {https://dblp.org/rec/journals/corr/abs-1801-10130.bib},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+
+@article{DBLP:journals/corr/abs-1901-02970,
+  author    = {He Wang and
+               Srinath Sridhar and
+               Jingwei Huang and
+               Julien Valentin and
+               Shuran Song and
+               Leonidas J. Guibas},
+  title     = {Normalized Object Coordinate Space for Category-Level 6D Object Pose
+               and Size Estimation},
+  journal   = {CoRR},
+  volume    = {abs/1901.02970},
+  year      = {2019},
+  url       = {http://arxiv.org/abs/1901.02970},
+  eprinttype = {arXiv},
+  eprint    = {1901.02970},
+  timestamp = {Thu, 21 Nov 2019 12:39:08 +0100},
+  biburl    = {https://dblp.org/rec/journals/corr/abs-1901-02970.bib},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
+}
