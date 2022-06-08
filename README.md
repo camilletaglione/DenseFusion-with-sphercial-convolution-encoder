@@ -1,5 +1,5 @@
 # DenseFusion-with-sphercial-convolution-encoder
-Internship to be carried out under the supervision of @
+Internship to be carried out under the supervision of @drmateo
 6D pose estimation method developed during a master course. 
 This method is based on the architecture of the DenseFusion method (https://github.com/j96w/DenseFusion) with the addition of a spherical convolution based encoder inspired by the DualPoseNet method (https://github.com/Gorilla-Lab-SCUT/DualPoseNet).
 The method has been developed for the YCB-Video database with a possible extension to LineMod in the future.
