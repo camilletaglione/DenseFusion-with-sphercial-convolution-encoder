@@ -2,8 +2,11 @@
 
 6D pose estimation method developed during a master course. 
 This method is based on the architecture of the DenseFusion method with the addition of a spherical convolution based encoder inspired by the DualPoseNet method.
-
+The method has been developed for the YCB-Video database with a possible extension to LineMod in the future.
+To realise this method a study of many methods was carried out.
+These methods use visual detection, tactile detection or both.
 As well as a tool to visualise the installation in the form of a video on the YCB database.
+
 Architecture :
 
 ![Untitled Diagram drawio (1)](https://user-images.githubusercontent.com/61682491/172632084-d7a1215f-6ff2-423f-9a4d-8843fe29d321.png)
