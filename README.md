@@ -25,7 +25,7 @@ As well as a tool to visualise the installation in the form of a video on the YC
 The requirements for the use of the network, for the visualization of the results it is necessary :
 * Python 3.7
 * OpenCV
-* 
+
 ## Datasets
 
 This work is tested on two 6D object pose estimation datasets:
