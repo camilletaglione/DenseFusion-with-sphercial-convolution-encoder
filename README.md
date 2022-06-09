@@ -22,6 +22,10 @@ As well as a tool to visualise the installation in the form of a video on the YC
 * matplotlib
 * CUDA 7.5/8.0/9.0 (Required. CPU-only will lead to extreme slow training speed because of the loss calculation of the symmetry objects (pixel-wise nearest neighbour loss).)
 
+The requirements for the use of the network, for the visualization of the results it is necessary :
+* Python 3.7
+* OpenCV
+* 
 ## Datasets
 
 This work is tested on two 6D object pose estimation datasets:
